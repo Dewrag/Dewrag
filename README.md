@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Reddit Bot**
+- 🔭 I’m currently working on **Data Analysis of Spring 2027 Trends**
 
-- 🌱 I’m currently learning **React, and Pytorch**
+- 🌱 I’m currently learning **React, and Angular**
 
-- 💬 Ask me about **Python, Adobe Illustrator, and Adobe Photoshop**
+- 💬 Ask me about **Python, Javascript, and APIs**
 
 - 📫 How to reach me **duragjosh21@gmail.com**
 
